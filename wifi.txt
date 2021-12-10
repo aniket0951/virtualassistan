@@ -1,0 +1,18 @@
+SSID: TP-LINK_E626
+Password: 02507613
+SSID: Aniket
+Password: 7038206592
+SSID: AndroidAP
+Password: avicii12345
+SSID: Skroman_R&D
+Password: Skrnd@1234
+SSID: Skroman_Techno
+Password: Sktechno1234
+SSID: Skroman 2.4
+Password: skrs7137
+SSID: iBall-Baton
+Password: 9922026789
+SSID: Galaxy A30s4D11
+Password: 7038206592
+SSID: Room no 12
+Password: 9922026789
