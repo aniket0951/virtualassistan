@@ -23,14 +23,18 @@
 
 
 # 5) Exercise 5: Iterate both lists simultaneously
-list1 = [10, 20, 30, 40]
-list2 = [100, 200, 300, 400]
-empty_list = []
-for i in list1:
-    empty_list.append(i)
-    for i in reversed(list2):
-        empty_list.append(i)
+# list1 = [10, 20, 30, 40]
+# list2 = [100, 200, 300, 400]
+# empty_list = []
+# for i in list1:
+#     empty_list.append(i)
+#     for i in reversed(list2):
+#         empty_list.append(i)
+#
+#
+# print(empty_list)
 
-
-print(empty_list)
-
+dict1 = {"ANiket":"name","Ajinath":"father name","Suryawanshi":"sur name"}
+print(dict1)
+for i in dict1:
+    print(i)
